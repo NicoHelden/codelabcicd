@@ -26,4 +26,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: codelabcicd-native-executable
-        path: target/codelabcicd-1.0-SNAPSHOT-runner
+        path: target/codelabcicd-1.0-SNAPSHOT-runner.exe
